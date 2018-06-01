@@ -1,0 +1,2 @@
+Main-Class: hastabel_sol_printer.Main
+
